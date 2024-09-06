@@ -31,15 +31,15 @@ public class Lampada {
 		boolean lampada3Apagada = !inter3;
 
 		if (lampada2Acesa) {
-			System.out.println("Interruptor 2 controla a lâmpada acesa.");
+			System.out.println("Interruptor 2 controla a lâmpada acesa");
 		}
 
 		if (lampada1Quente) {
-			System.out.println("Interruptor 1 controla a lâmpada que está quente.");
+			System.out.println("Interruptor 1 controla a lâmpada que está quente");
 		}
 
 		if (lampada3Apagada) {
-			System.out.println("Interruptor 3 controla a lâmpada apagada.");
+			System.out.println("Interruptor 3 controla a lâmpada apagada");
 		}
 	}
 }
