@@ -1,4 +1,4 @@
-package testeFibocci;
+package teste;
 
 import java.util.Scanner;
 

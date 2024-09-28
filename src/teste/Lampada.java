@@ -1,4 +1,4 @@
-package testeFibocci;
+package teste;
 
 public class Lampada {
 
