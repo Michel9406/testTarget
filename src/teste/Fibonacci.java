@@ -20,9 +20,11 @@ public class Fibonacci {
 			System.out.println("O número " + numero + " pertence à sequência de Fibonacci.");
 		} else {
 			System.out.println("O número " + numero + " não pertence à sequência de Fibonacci.");
-		}
-	}
+			
+	  }
+   }
 
+	
 
 	public static boolean verificarFibonacci(int valor) {
 		int primeiro = 0, segundo = 1, proximo = 0;
